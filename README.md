@@ -19,9 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 Atualmente esrou trabalhando em **CSS, React, Nodejs**
-
-- ☁️ Tenho grande interesse em clud coputing. Então estou aprendendo **AWS**
+- 🔭 Atualmente estou estudando em **CSS, React, Nodejs**
 
 - 📝 Eu faço projetos regularmente no FrontEnd Mwntor [FrontEnd Mentor](https://www.frontendmentor.io/profile/etvaldolisboa)
 
